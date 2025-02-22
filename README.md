@@ -27,6 +27,9 @@
 |**If you think you can bind me a bear on you're on the woodway**|Wenn du denkst du könntest mir einen Bären aufbinden, bist du auf dem Holzweg|
 |**You have here nothing to search**|Du hast hier nichts zu suchen|
 |**Cow paunch night**|Eine sehr düstere Nacht (schwäbisch: "Kuahranzanacht")|
+|**A washreal German**|Ein waschechter Deutscher|
+|**Not the yellow from the egg**|Noch das gelbe vom Ei|
+
 
 ### Glossar
 👿 Schimpfwort
