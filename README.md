@@ -31,7 +31,7 @@
 |**Not the yellow from the egg**|Noch das gelbe vom Ei|
 |**Fix devils wild**|fuchsteufelswild|
 |**Not all cups in the cupboard**|Nicht alle Tassen im Schrank|
-
+|**I think it chops**|Ich glaub es hackt|
 
 ### Glossar
 👿 Schimpfwort
