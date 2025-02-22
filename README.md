@@ -29,6 +29,8 @@
 |**Cow paunch night**|Eine sehr düstere Nacht (schwäbisch: "Kuahranzanacht")|
 |**A washreal German**|Ein waschechter Deutscher|
 |**Not the yellow from the egg**|Noch das gelbe vom Ei|
+|**Fix devils wild**|fuchsteufelswild|
+|**Not all cups in the cupboard**|Nicht alle Tassen im Schrank|
 
 
 ### Glossar
