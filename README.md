@@ -28,11 +28,13 @@
 |**You have here nothing to search**|Du hast hier nichts zu suchen|
 |**Cow paunch night**|Eine sehr düstere Nacht (schwäbisch: "Kuahranzanacht")|
 |**A washreal German**|Ein waschechter Deutscher|
-|**Not the yellow from the egg**|Noch das gelbe vom Ei|
-|**Fix devils wild**|fuchsteufelswild|
+|**Not the yellow from the egg**|Noch das Gelbe vom Ei|
+|**Fox devils wild**|fuchsteufelswild|
 |**Not all cups in the cupboard**|Nicht alle Tassen im Schrank|
 |**I think it chops**|Ich glaub es hackt|
 |**I think I spider**|Ich glaub ich spinne|
+|**Now we have the salad**|Jetzt haben wir den Salat|
+|**This is under all pig**|Das ist unter aller Sau|
 
 ### Glossar
 👿 Schimpfwort
