@@ -36,6 +36,7 @@
 |**Now we have the salad**|Jetzt haben wir den Salat|
 |**This is under all pig**|Das ist unter aller Sau|
 |**I think my pig whistles**|Ich glaub mein Schwein pfeift|
+|**Bake whistle face**|Backpfeifengesicht|
 
 ### Glossar
 👿 Schimpfwort
